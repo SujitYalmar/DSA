@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SujitYalmar/DSA/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
