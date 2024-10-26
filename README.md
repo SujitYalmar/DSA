@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SujitYalmar/DSA/tree/master/0053-maximum-subarray) |
@@ -26,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -42,5 +44,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
