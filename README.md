@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SujitYalmar/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SujitYalmar/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SujitYalmar/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
