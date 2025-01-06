@@ -34,6 +34,7 @@
 | [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SujitYalmar/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/SujitYalmar/DSA/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 | ------- |
 | [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SujitYalmar/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
