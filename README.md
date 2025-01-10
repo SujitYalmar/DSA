@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SujitYalmar/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SujitYalmar/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SujitYalmar/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SujitYalmar/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SujitYalmar/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
@@ -71,4 +73,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SujitYalmar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujitYalmar/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SujitYalmar/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
