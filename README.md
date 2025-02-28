@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujitYalmar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
